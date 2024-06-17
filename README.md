@@ -52,11 +52,8 @@
 
 <img src="https://github.com/saurabhdhumane/saurabhdhumane/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&theme=default" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 
