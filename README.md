@@ -1,4 +1,16 @@
 <h2 align="left">Hi 👋! My name is Saurabh and I'm a MERN Stack Developer, from Pune</h2>
+<p>
+  🥰 I love to build dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js. <br/>
+
+🚀 Currently, I'm diving deep into advanced React patterns and server-side rendering. <br/>
+
+🎨 In my free time, I enjoy exploring new technologies, writing technical blogs, and creating poetry. <br/>
+
+🌱 Always eager to learn and collaborate on exciting projects! <br/>
+
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saurabh-dhumane/) or [Email](mailto:saurabhdhumneraje@gmail.com). <br/>
+
+</p>
 
 ###
 
