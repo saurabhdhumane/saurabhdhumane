@@ -1,74 +1,71 @@
-<h2 align="left">Hi 👋! My name is Saurabh and I'm a MERN Stack Developer, from Pune</h2>
-<p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=200&section=header&text=Saurabh%20Dhumane&fontSize=70&animation=fadeIn&fontColor=282a36" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;Passionate+Poet;Technical+Blogger" alt="Typing SVG" />
+</div>
+
+###
+
+<p align="center">
   🥰 I love to build dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js. <br/>
-
-🚀 Currently, I'm diving deep into advanced React patterns and server-side rendering. <br/>
-
-🎨 In my free time, I enjoy exploring new technologies, writing technical blogs, and creating poetry. <br/>
-
-🌱 Always eager to learn and collaborate on exciting projects! <br/>
-
-📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saurabh-dhumane/) or [Email](mailto:saurabhdhumneraje@gmail.com). <br/>
-
+  🚀 Currently diving deep into **Advanced React Patterns** and **Server-Side Rendering**. <br/>
+  🎨 In my free time, I explore new tech, write technical blogs, and create poetry. <br/>
+  🌱 Always eager to learn and collaborate on exciting projects!
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhdhumane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhdhumane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/59702394?v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:saurabhdhumneraje@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://saurabhdhumane.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saurabh-dhumane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:saurabhdhumneraje@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Backend & DB:</strong><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhdhumane&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhdhumane&layout=compact&theme=dracula&border_radius=10" height="170" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://github.com/saurabhdhumane/saurabhdhumane/blob/output/snake.svg" alt="Snake animation" />
-
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhdhumane&theme=dracula&border_radius=10" alt="streak stats" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saurabhdhumane.saurabhdhumane&"  />
+  <img src="https://github.com/saurabhdhumane/saurabhdhumane/blob/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saurabhdhumane.saurabhdhumane" />
+</p>
