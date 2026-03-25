@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saurabhdhumane.github.io/portfolio/" target="_blank">
+  <a href="https://saurabhdhumane.com" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saurabh-dhumane/" target="_blank">
